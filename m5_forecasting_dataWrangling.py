@@ -22,7 +22,7 @@ import pandas as pd
 import numpy as np
 from pandas import read_csv
 
-# for data Wrrangling
+# for data Wrangling
 
 # metrics
 from sklearn.metrics import mean_squared_error
